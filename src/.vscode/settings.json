@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "rotary.h": "c",
+        "io.h": "c",
+        "twi_settings.h": "c",
+        "uart.h": "c",
+        "delay.h": "c",
+        "max7219.h": "c"
+    }
+}
