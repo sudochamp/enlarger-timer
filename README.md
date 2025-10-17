@@ -1,4 +1,4 @@
-> ![IMPORTANT] This project is a work in progress. It functions, but not where I want it yet.
+> [!IMPORTANT] This project is a work in progress. It functions, but not where I want it yet.
 
 # Darkroom Enlarger Timer
 
